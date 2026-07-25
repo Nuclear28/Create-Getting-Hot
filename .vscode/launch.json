@@ -1,0 +1,15 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Minecraft Client (Аддон)",
+            "request": "launch",
+            "mainClass": "net.neoforged.neoforge.internal.cli.Launcher",
+            "projectName": "modtemplate",
+            "args": "--gameDir run --version forge --assetIndex 16 --assetsDir ${userHome}/.gradle/caches/forge_gradle/assets --uuid 0 --username Dev --launchTarget neoforge_userdev_client",
+            "vmArgs": "-Dnet.neoforged.gradle.userdev=true",
+            "workingDir": "${workspaceFolder}/run"
+        }
+    ]
+}

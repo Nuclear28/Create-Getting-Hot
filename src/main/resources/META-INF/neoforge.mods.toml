@@ -1,0 +1,13 @@
+modLoader="javafml"
+loaderVersion="[4,)"
+license="MIT"
+
+[[mods]]
+modId="create_hot"
+version="1.0.1"
+displayName="Create: Getting Hot"
+description='''
+Аддон для мода Create, добавляющий механику генерации, распределения и стравливания пара! 
+Разогрейте свои заводы до предела, используя кастомные паровые интерфейсы и оригинальные цистерны.
+'''
+authors="Nuclear28, Google Gemini"

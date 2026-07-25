@@ -1,0 +1,8 @@
+{
+  "fluid_type.examplemod.steam": "Steam",
+  "fluid.examplemod.steam": "Steam",
+  "block.create_hot.steam_interface": "Steam Interface",
+  "item.create_hot.steam_interface": "Steam Interface",
+  "item.examplemod.steam_bucket": "Steam Bucket",
+  "itemGroup.create_hot.base_tab": "Create: Getting Hot"
+}
