@@ -1,0 +1,7 @@
+{
+  "fluid.create_hot.steam": "Пар",
+  "block.create_hot.steam_interface": "Паровой интерфейс",
+  "block.create_hot.steam_block": "Блок пара",
+  "item.create_hot.steam_bucket": "Ведро пара",
+  "itemGroup.create_hot.base_tab": "Create: Становится Жарковато"
+}

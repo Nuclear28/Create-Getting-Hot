@@ -1,0 +1,8 @@
+{
+  "fluid.create_hot.steam": "Steam",
+  "block.create_hot.steam_interface": "Steam Interface",
+  "block.create_hot.steam_block": "Steam Block",
+  "item.create_hot.steam_bucket": "Steam Bucket",
+  "itemGroup.create_hot.base_tab": "Create: Getting Hot"
+
+}
