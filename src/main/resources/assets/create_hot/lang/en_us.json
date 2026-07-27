@@ -1,15 +1,26 @@
 {
-  "fluid.create_hot.steam": "Steam",
-  "block.create_hot.steam_interface": "Steam Interface",
-  "block.create_hot.steam_block": "Steam Block",
-  "item.create_hot.steam_bucket": "Steam Bucket",
-  "item_group.create_hot.create_hot": "Create: Getting Hot",
   "block.create_hot.steam_engine": "Steam Engine",
-  "item.create_hot.steam_engine": "Steam Engine",
-  "create_hot.tooltip.steam_engine.header": "Industrial Generator",
-  "create_hot.tooltip.steam_engine.summary": "Converts stored _steam_ into powerful _kinetic rotation_.",
-  "create_hot.tooltip.steam_engine.condition": "Requirement:",
-  "create_hot.tooltip.steam_engine.condition_steam": "Constant supply of steam to the internal tank.",
-  "create_hot.tooltip.temperature_header": "Thermal Status:",
-  "create_hot.tooltip.temperature_value": "Temperature:"
+  "block.create_hot.steam_interface": "Steam Interface",
+  "item_group.create_hot.create_hot": "Create: Getting Hot",
+  "fluid_type.create_hot.steam": "Steam",
+  "fluid.create_hot.steam": "Steam",
+
+  "create_hot.tooltip.hold_shift": "Hold [Shift] for details",
+  "create_hot.tooltip.warning": "Warning:",
+  "create_hot.tooltip.usage": "Usage:",
+
+  "create_hot.tooltip.steam_interface.title": "Multifunctional Hub",
+  "create_hot.tooltip.steam_interface.description": "Connects steam systems and automates pressure in boilers.",
+  "create_hot.tooltip.steam_interface.warning_text": "System overload may lead to an explosion!",
+
+  "create_hot.tooltip.steam_engine.title": "Factory Heart",
+  "create_hot.tooltip.steam_engine.description": "Converts hot steam energy into kinetic rotation (SU), runs at 256 speed.",
+  "create_hot.tooltip.steam_engine.usage_text": "Requires a stable steam supply to the internal tank.",
+
+  "create_hot.tooltip.temperature_header": "Interface Status:",
+  "create_hot.tooltip.temperature_value": "Temperature:",
+
+  "create_hot.tooltip.steam_engine_stats": "Generator Stats:",
+  "create_hot.tooltip.steam_temp": "Steam Temp:",
+  "create_hot.tooltip.stress_output": "Output Power:"
 }

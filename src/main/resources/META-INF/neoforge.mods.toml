@@ -4,7 +4,7 @@ license="MIT"
 
 [[mods]]
 modId="create_hot"
-version="1.0.4"
+version="1.0.5"
 logoFile="logo.png"
 displayName="Create: Getting Hot"
 description='''

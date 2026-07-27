@@ -18,5 +18,8 @@
   "create_hot.tooltip.steam_engine.usage_text": "Требует стабильный приток пара во внутренний бак.",
 
   "create_hot.tooltip.temperature_header": "Статус интерфейса:",
-  "create_hot.tooltip.temperature_value": "Температура:"
+  "create_hot.tooltip.temperature_value": "Температура:",
+  "create_hot.tooltip.steam_engine_stats": "Статистика генератора:",
+  "create_hot.tooltip.steam_temp": "Температура пара:",
+  "create_hot.tooltip.stress_output": "Выходная мощность:"
 }
