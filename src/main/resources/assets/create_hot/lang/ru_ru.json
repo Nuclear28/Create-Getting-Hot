@@ -1,7 +1,17 @@
 {
-  "fluid.create_hot.steam": "Пар",
-  "block.create_hot.steam_interface": "Паровой интерфейс",
-  "block.create_hot.steam_block": "Блок пара",
-  "item.create_hot.steam_bucket": "Ведро пара",
-  "itemGroup.create_hot.base_tab": "Create: Становится Жарковато"
+  "block.create_hot.steam_engine": "Паровой Двигатель",
+  "block.create_hot.steam_interface": "Паровой Интерфейс",
+  "item_group.create_hot.create_hot": "Create: Становится Жарковато",
+
+  "create_hot.tooltip.hold_shift": "Удерживайте [Shift] для подробностей",
+  "create_hot.tooltip.warning": "Внимание:",
+  "create_hot.tooltip.usage": "Применение:",
+
+  "create_hot.tooltip.steam_interface.title": "Многофункциональный узел",
+  "create_hot.tooltip.steam_interface.description": "Позволяет соединять паровые системы и автоматизировать давление в котлах.",
+  "create_hot.tooltip.steam_interface.warning_text": "Переполнение системы может привести к взрыву!",
+
+  "create_hot.tooltip.steam_engine.title": "Сердце фабрики",
+  "create_hot.tooltip.steam_engine.description": "Превращает энергию горячего пара в кинетическое вращение (SU), работает на 256 скорости.",
+  "create_hot.tooltip.steam_engine.usage_text": "Требует стабильный приток пара во внутренний бак."
 }

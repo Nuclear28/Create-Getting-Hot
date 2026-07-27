@@ -3,6 +3,11 @@
   "block.create_hot.steam_interface": "Steam Interface",
   "block.create_hot.steam_block": "Steam Block",
   "item.create_hot.steam_bucket": "Steam Bucket",
-  "itemGroup.create_hot.base_tab": "Create: Getting Hot"
-
+  "item_group.create_hot.create_hot": "Create: Getting Hot",
+  "block.create_hot.steam_engine": "Steam Engine",
+  "item.create_hot.steam_engine": "Steam Engine",
+  "create_hot.tooltip.steam_engine.header": "Industrial Generator",
+  "create_hot.tooltip.steam_engine.summary": "Converts stored _steam_ into powerful _kinetic rotation_.",
+  "create_hot.tooltip.steam_engine.condition": "Requirement:",
+  "create_hot.tooltip.steam_engine.condition_steam": "Constant supply of steam to the internal tank."
 }

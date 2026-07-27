@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "create_hot:block/steam_engine" },
+    "facing=south": { "model": "create_hot:block/steam_engine", "y": 180 },
+    "facing=east": { "model": "create_hot:block/steam_engine", "y": 90 },
+    "facing=west": { "model": "create_hot:block/steam_engine", "y": 270 }
+  }
+}

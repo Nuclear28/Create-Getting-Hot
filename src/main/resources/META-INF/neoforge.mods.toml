@@ -4,7 +4,8 @@ license="MIT"
 
 [[mods]]
 modId="create_hot"
-version="1.0.1"
+version="1.0.3"
+logoFile="logo.png"
 displayName="Create: Getting Hot"
 description='''
 Аддон для мода Create, добавляющий механику генерации, распределения и стравливания пара! 
