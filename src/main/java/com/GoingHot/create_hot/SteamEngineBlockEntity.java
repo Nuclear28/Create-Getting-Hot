@@ -38,7 +38,7 @@ public class SteamEngineBlockEntity extends GeneratingKineticBlockEntity {
     public float calculateAddedStressCapacity() {
         if (steamTank.getFluidAmount() <= 0) return 0.0f;
         float fillRatio = (float) steamTank.getFluidAmount() / steamTank.getCapacity();
-        return fillRatio * 163.84f;
+        return fillRatio * 4f;
     }
 
     @Override

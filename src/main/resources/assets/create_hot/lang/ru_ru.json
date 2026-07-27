@@ -2,6 +2,8 @@
   "block.create_hot.steam_engine": "Паровой Двигатель",
   "block.create_hot.steam_interface": "Паровой Интерфейс",
   "item_group.create_hot.create_hot": "Create: Становится Жарковато",
+  "fluid_type.create_hot.steam": "Пар", 
+  "fluid.create_hot.steam": "Пар",
 
   "create_hot.tooltip.hold_shift": "Удерживайте [Shift] для подробностей",
   "create_hot.tooltip.warning": "Внимание:",
@@ -13,5 +15,8 @@
 
   "create_hot.tooltip.steam_engine.title": "Сердце фабрики",
   "create_hot.tooltip.steam_engine.description": "Превращает энергию горячего пара в кинетическое вращение (SU), работает на 256 скорости.",
-  "create_hot.tooltip.steam_engine.usage_text": "Требует стабильный приток пара во внутренний бак."
+  "create_hot.tooltip.steam_engine.usage_text": "Требует стабильный приток пара во внутренний бак.",
+
+  "create_hot.tooltip.temperature_header": "Статус интерфейса:",
+  "create_hot.tooltip.temperature_value": "Температура:"
 }

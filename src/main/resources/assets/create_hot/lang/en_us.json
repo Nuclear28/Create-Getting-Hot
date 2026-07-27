@@ -9,5 +9,7 @@
   "create_hot.tooltip.steam_engine.header": "Industrial Generator",
   "create_hot.tooltip.steam_engine.summary": "Converts stored _steam_ into powerful _kinetic rotation_.",
   "create_hot.tooltip.steam_engine.condition": "Requirement:",
-  "create_hot.tooltip.steam_engine.condition_steam": "Constant supply of steam to the internal tank."
+  "create_hot.tooltip.steam_engine.condition_steam": "Constant supply of steam to the internal tank.",
+  "create_hot.tooltip.temperature_header": "Thermal Status:",
+  "create_hot.tooltip.temperature_value": "Temperature:"
 }

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " C ",
+    "ISI",
+    " B "
+  ],
+  "key": {
+    "C": { "item": "create:copper_casing" },
+    "I": { "item": "create_hot:steam_interface" },
+    "S": { "item": "create:shaft" },
+    "B": { "item": "minecraft:bucket" }
+  },
+  "result": {
+    "id": "create_hot:steam_engine",
+    "count": 1
+  }
+}
